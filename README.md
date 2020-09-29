@@ -1,2 +1,1 @@
-# FontysOefeningen
-Dit is oefenopdracht 1: Simpel Algoritme
+# FontysOefening 1
