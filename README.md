@@ -1,2 +1,2 @@
 # FontysOefeningen
-De 4 oefenopdrachten van FontysICT
+Dit is oefenopdracht 1: Simpel Algoritme
