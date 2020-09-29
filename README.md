@@ -1,2 +1,1 @@
-# FontysOefeningen
-De 4 oefenopdrachten van FontysICT
+# FontysOefening 1
