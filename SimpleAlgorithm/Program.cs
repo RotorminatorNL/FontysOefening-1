@@ -4,7 +4,7 @@ namespace SimpleAlgorithm
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
             Order order = new Order();
             order.AddProduct("Apple", 0.99);
