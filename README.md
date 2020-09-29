@@ -1,1 +1,2 @@
-# FontysOefening 1
+# Fontys oefening 1
+Simpel algoritme
